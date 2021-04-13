@@ -11,17 +11,17 @@ Please check the uploaded Jupyter Notebook file for the **execution with OUTPUTS
 
 
 ## Example:
-Process Name: process1
+`Process Name: process1
 Process Value: 2000
 
 Process Name: process2
-Process Value: 3000
+Process Value: 3000`
 
 --- Shows output step by step, and finally: ---
 
 # Final Snapshot:
 ----------------------------------------------
-Value of Process #1: 1750
+`Value of Process #1: 1750
 Value of Process #2: 2990
 Value of messages in transit: 260
-(Value of Process #1 + Value of Process #2 + Value of messages in transit) =  5000
+(Value of Process #1 + Value of Process #2 + Value of messages in transit) =  5000`
